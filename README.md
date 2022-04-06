@@ -1,6 +1,8 @@
 # Google-Homepage
 Homepage de Google selon moi
 
+Corrigé 6/4 9:25 (oublié les points avant les / :( )
+
 LIRE SVP AVANT ! 
 
 Je sais pas pourquoi mais même en ayant tout DL, si j'ouvre le fichier HTML avec chrome, certaines images ne s'affiche pas, je les vois uniquement en ouvrant avec Live Server. 
