@@ -12,3 +12,5 @@ Pour voir toutes les images dans le fichier html, ouvrir le dossier Google dans 
 Cheers,
 
 Alexis
+
+Un petit test pour voir si ça marche
